@@ -1,1 +1,3 @@
-# kpabe-cloud
+# Homomorphic Attribute-based Encryption: Applications to Decentralized Cloud Computing
+
+Lattice-based cryptosystems are the cutting edge of cryptography, due to their apparent resistance to quantum attacks, high asymptotic efficiency and parallelism, and solutions to long-standing open problems in cryptography. Due to these features, lattice-based cryptography is the next step in the natural progression of cryptography, with widespread potential applications. Likewise, the characteristic-based key-policies in attribute-based cryptosystems have made then desirable for further efficiency in large-scale cloud storage systems. Therefore, this work surveys the means by which to construct a lattice-based key-policy attribute-based encryption cloud storage system, and its applications to the anonymization and analytics of confidential ciphertexts, especially in the modern regulatory paradigms provided by HIPAA and RFPA.
